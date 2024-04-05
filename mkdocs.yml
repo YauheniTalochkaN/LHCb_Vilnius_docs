@@ -3,4 +3,4 @@ site_url: https://lhcb_vilnius_docs
 nav:
   - Home: index.md
   - About: about.md
-theme: readthedocs
+theme: material
