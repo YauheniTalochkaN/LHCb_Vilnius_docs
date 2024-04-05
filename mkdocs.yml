@@ -1,0 +1,6 @@
+site_name: LHCb_Vilnius_docs
+site_url: https://lhcb_vilnius_docs
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
