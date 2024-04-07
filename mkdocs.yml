@@ -2,6 +2,7 @@ site_name: LHCb_Vilnius_docs
 site_url: https://yauhenitalochkan.github.io/LHCb_Vilnius_docs/
 nav:
   - Home: index.md
+  - Mattermost: mattermost.md
   - ROOT: root.md
   - About: about.md
 theme:
@@ -32,6 +33,4 @@ theme:
       accent: deep purple
 
 copyright: |
-  &copy; 2024 <a href="https://github.com/YauheniTalochkaN"  target="_blank" rel="noopener">Yauheni Talochka</a>
-  &copy; 2024 <a href="https://github.com/MindaugasSarpis"  target="_blank" rel="noopener">Mindaugas Sarpis</a>
-  &copy; 2024 <a href="https://github.com/Tamsta-273C"  target="_blank" rel="noopener">Oleg Kravcov</a>
+  &copy; 2024 <a href="https://github.com/YauheniTalochkaN"  target="_blank" rel="noopener">Yauheni Talochka</a>, <a href="https://github.com/MindaugasSarpis"  target="_blank" rel="noopener">Mindaugas Sarpis</a>, <a href="https://github.com/Tamsta-273C"  target="_blank" rel="noopener">Oleg Kravcov</a>
