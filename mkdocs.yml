@@ -3,6 +3,7 @@ site_url: https://yauhenitalochkan.github.io/LHCb_Vilnius_docs/
 nav:
   - Home: index.md
   - Mattermost: mattermost.md
+  - Fedora: Fedora.md
   - ROOT: root.md
   - About: about.md
 theme:
